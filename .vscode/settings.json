@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\rodol\\.conda\\envs\\project_environment\\python.exe"
 }

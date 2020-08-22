@@ -6,7 +6,7 @@ BTC = get_data("BTC-USD")
 
 df = pd.DataFrame(BTC, index=None)
 
-df.to_csv(path_or_buf="C:/Users\Administrateur\Documents\GitHub\Projet\Data/BTC-USD.csv")
+df.to_csv(path_or_buf="./data/BTC-USD.csv")
 
 # Dataset post-bullrun 2017
 
