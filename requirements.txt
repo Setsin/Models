@@ -127,7 +127,7 @@ optional-django==0.3.0
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1592833613419/work
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parse==1.16.0
 parso==0.7.0
 partd==1.1.0
